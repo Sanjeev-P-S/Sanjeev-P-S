@@ -35,17 +35,14 @@
 ##  Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/raghav-elumalai-17668626b">
+  <a href="https://www.linkedin.com/in/sanjeev-p-s-167955374/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
-  <a href="https://leetcode.com/u/Raghav_0201/">
+  <a href="https://leetcode.com/u/pssanjeev/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
   </a>
-
-  <a href="https://raghav0201.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
-  </a>
+  
 </p>
 
 ---
